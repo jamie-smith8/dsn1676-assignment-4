@@ -16,3 +16,26 @@ html {
 *, *::before, *::after {
 box-sizing: inherit;
 }
+
+body {
+    font-family: 'Helvetica', sans-serif;
+    color: white;
+    background-color: #FF6666;
+}
+
+h1 {
+    color: teal;
+    text-transform: uppercase;
+}
+
+dt {
+   float: left;
+    font-weight: bold;
+    width: 26rem;
+}
+
+dl {
+    line-height: 2rem;
+    letter-spacing: 1px;
+}
+
